@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00f16cb7d4869164f9c1c97a67d35468, type: 3}
+  m_Name: Yuri Soma
+  m_EditorClassIdentifier: 
+  Name: Yuri Soma
+  Number: +79183129192
+  ProfilePicture: {fileID: 2800000, guid: f5a37ff7cf26b1d48b1f96c068821028, type: 3}
+  IsChoosen: 0
+  IsUnlocked: 0
+  AdsToOpen: 1
+  WatchedAdds: 0
+  CallAnwser: {fileID: 8300000, guid: 0b36fe7b6ae43e14ba61678a85feb7ec, type: 3}
+  VideoAnwser: {fileID: 32900000, guid: be521f7ab0a0fb9439f994dee2d1939e, type: 3}
+  MessagesHistory: 
+  ChatMessages:
+  - Id: 0
+    Question: How are you doing?
+    Anwser: Well enough
+  - Id: 1
+    Question: Wassup
+    Anwser: Yo
+  - Id: 2
+    Question: Nigga watcha doing
+    Anwser: Oh... thats rasist....
+  - Id: 3
+    Question: Zdarova
+    Anwser: Ky
+  LiveMessages:
+  - Text: Hello!
+  - Text: Wassup???
+  - Text: Watcha doing??

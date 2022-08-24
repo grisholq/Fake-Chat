@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+ <privacy>http://youtube.com/</privacy>
+ <games>https://www.gamezop.com/get-started/category-selection</games>
+ <license>https://vk.com/im</license>
+ <googlePlayDeveloper>https://vk.com/im</googlePlayDeveloper>
+ <googlePlayPage>https://vk.com/im</googlePlayPage>
+</data>
